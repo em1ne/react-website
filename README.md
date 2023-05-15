@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # react-website
 <h1>REACT JS DEV WEBSITE</h1>
 <p> React library and tailwind css library are used in this website design.<p>
-
+<img src="https://github.com/em1ne/react-website/assets/121401426/bd3f7704-f2b6-4870-a62f-3019788abf2d.gif" >
